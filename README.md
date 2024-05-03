@@ -1,5 +1,5 @@
 # M/M/1 and M/M/1/K Queue Simulation
-Adel Pazoki Toroudi and Larissa Troper
+Written by: [Adel Pazoki Toroudi](https://github.com/Adelpzk) and Larissa Troper
 
 To run the Python file, use the following command: **$ make run**
 
